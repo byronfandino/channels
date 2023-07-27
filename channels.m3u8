@@ -1,0 +1,184 @@
+#EXTM3U
+#EXTINF:0,Canal Caracol
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/nacionales/canal-caracol/playlist.m3u8
+#EXTINF:0,La Kalle
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/nacionales/la-kalle/playlist.m3u8
+#EXTINF:0,Canal RCN
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/nacionales/canal-rcn/playlist.m3u8
+#EXTINF:0,City TV
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/regionales/city-tv/playlist.m3u8
+#EXTINF:0,Senal Colombia
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/nacionales/senal-colombia/playlist.m3u8
+#EXTINF:0,Canal Institucional
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/nacionales/canal-institucional/playlist.m3u8
+#EXTINF:0,Canal 1
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/nacionales/canal-uno/playlist.m3u8
+#EXTINF:0,Canal Capital
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/regionales/canal-capital/playlist.m3u8
+#EXTINF:0,Canal 13
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/nacionales/canal-13/playlist.m3u8
+#EXTINF:0,El Tiempo TV
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/regionales/el-tiempo-tv/playlist.m3u8
+#EXTINF:0,Eureka Capital
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/regionales/eureka-capital/playlist.m3u8
+#EXTINF:0,Exploremos
+#EXTGRP:Nacionales
+http://stream.its-ing.com:8081/variedades/investiga/playlist.m3u8
+#EXTINF:0,Telepacifico
+#EXTGRP:Regionales
+http://stream.its-ing.com:8081/regionales/telepacifico/playlist.m3u8
+#EXTINF:0,Suran TV
+#EXTGRP:Regionales
+http://stream.its-ing.com:8081/regionales/suran-tv/playlist.m3u8
+#EXTINF:0,Telepasto
+#EXTGRP:Regionales
+http://stream.its-ing.com:8081/regionales/tele-pasto/playlist.m3u8
+#EXTINF:0,Teleantioquia
+#EXTGRP:Regionales
+http://stream.its-ing.com:8081/regionales/teleantioquia/playlist.m3u8
+#EXTINF:0,Telecaribe
+#EXTGRP:Regionales
+http://stream.its-ing.com:8081/regionales/telecaribe/playlist.m3u8
+#EXTINF:0,Canal TRO
+#EXTGRP:Regionales
+http://stream.its-ing.com:8081/regionales/canal-tro/playlist.m3u8
+#EXTINF:0,Tele Islas
+#EXTGRP:Regionales
+http://stream.its-ing.com:8081/regionales/tele-islas/playlist.m3u8
+#EXTINF:0,Baby First
+#EXTGRP:Infantiles
+http://stream.its-ing.com:8081/infantiles/baby-first/playlist.m3u8
+#EXTINF:0,Junior
+#EXTGRP:Infantiles
+http://stream.its-ing.com:8081/infantiles/junior/playlist.m3u8
+#EXTINF:0,Kids
+#EXTGRP:Infantiles
+http://stream.its-ing.com:8081/infantiles/kids/playlist.m3u8
+#EXTINF:0,Retro Cartoons
+#EXTGRP:Infantiles
+http://stream.its-ing.com:8081/infantiles/retro-cartoons/playlist.m3u8
+#EXTINF:0,Anime
+#EXTGRP:Infantiles
+http://stream.its-ing.com:8081/infantiles/anime/playlist.m3u8
+#EXTINF:0,TV Familia
+#EXTGRP:Religiosos
+http://stream.its-ing.com:8081/religiosos/tv-familia/playlist.m3u8
+#EXTINF:0,Cristovision
+#EXTGRP:Religiosos
+http://stream.its-ing.com:8081/religiosos/cristovision/playlist.m3u8
+#EXTINF:0,EWTN
+#EXTGRP:Religiosos
+http://stream.its-ing.com:8081/religiosos/ewtn/playlist.m3u8
+#EXTINF:0,Enlace TV
+#EXTGRP:Religiosos
+http://stream.its-ing.com:8081/religiosos/enlace-tv/playlist.m3u8
+#EXTINF:0,Ciencia
+#EXTGRP:Culturales
+http://stream.its-ing.com:8081/culturales/ciencia/playlist.m3u8
+#EXTINF:0,Historia
+#EXTGRP:Culturales
+http://stream.its-ing.com:8081/culturales/historia/playlist.m3u8
+#EXTINF:0,Animales
+#EXTGRP:Culturales
+http://stream.its-ing.com:8081/culturales/animales/playlist.m3u8
+#EXTINF:0,Naturaleza
+#EXTGRP:Culturales
+http://stream.its-ing.com:8081/culturales/naturaleza/playlist.m3u8
+#EXTINF:0,Viajes
+#EXTGRP:Culturales
+http://stream.its-ing.com:8081/culturales/viajes/playlist.m3u8
+#EXTINF:0,El Levante Channel
+#EXTGRP:Musicales
+http://stream.its-ing.com:8081/live/ellevante/playlist.m3u8
+#EXTINF:0,TV Furstar
+#EXTGRP:Musicales
+http://stream.its-ing.com:8081/musicales/tv-furstar/playlist.m3u8
+#EXTINF:0,Vevo Latino
+#EXTGRP:Musicales
+http://stream.its-ing.com:8081/musicales/vevo-latino/playlist.m3u8
+#EXTINF:0,Vevo 90's
+#EXTGRP:Musicales
+http://stream.its-ing.com:8081/musicales/vevo-90s/playlist.m3u8
+#EXTINF:0,Series
+#EXTGRP:Variedades
+http://stream.its-ing.com:8081/variedades/series/playlist.m3u8
+#EXTINF:0,Vida Real
+#EXTGRP:Variedades
+http://stream.its-ing.com:8081/variedades/vida-real/playlist.m3u8
+#EXTINF:0,Misterios
+#EXTGRP:Variedades
+http://stream.its-ing.com:8081/variedades/misterios/playlist.m3u8
+#EXTINF:0,Hogar
+#EXTGRP:Variedades
+http://stream.its-ing.com:8081/variedades/hogar/playlist.m3u8
+#EXTINF:0,SUN Channel
+#EXTGRP:Variedades
+http://stream.its-ing.com:8081/variedades/sun-channel/playlist.m3u8
+#EXTINF:0,Novelas
+#EXTGRP:Variedades
+http://stream.its-ing.com:8081/variedades/novelas/playlist.m3u8
+#EXTINF:0,Series Retro
+#EXTGRP:Variedades
+http://stream.its-ing.com:8081/variedades/series-retro/playlist.m3u8
+#EXTINF:0,Velocidad
+#EXTGRP:Variedades
+http://stream.its-ing.com:8081/variedades/velocidad/playlist.m3u8
+#EXTINF:0,RTVE Noticias
+#EXTGRP:Noticias
+http://stream.its-ing.com:8081/noticias/rtve-noticias/playlist.m3u8
+#EXTINF:0,DW Espanol
+#EXTGRP:Noticias
+http://stream.its-ing.com:8081/noticias/dw-espanol/playlist.m3u8
+#EXTINF:0,Euronews Espanol
+#EXTGRP:Noticias
+http://stream.its-ing.com:8081/noticias/euronews/playlist.m3u8
+#EXTINF:0,RT Noticias
+#EXTGRP:Noticias
+http://stream.its-ing.com:8081/noticias/rt/playlist.m3u8
+#EXTINF:0,Futbol para Fans
+#EXTGRP:Deportivos
+http://stream.its-ing.com:8081/deportivos/futbol-para-fans/playlist.m3u8
+#EXTINF:0,Lucha Libre AAA
+#EXTGRP:Deportivos
+http://stream.its-ing.com:8081/deportivos/lucha-libre-aaa/playlist.m3u8
+#EXTINF:0,Motorvision
+#EXTGRP:Deportivos
+http://stream.its-ing.com:8081/deportivos/motorvision/playlist.m3u8
+#EXTINF:0,Cine Suspenso
+#EXTGRP:Peliculas
+http://stream.its-ing.com:8081/peliculas/cine-suspenso/playlist.m3u8
+#EXTINF:0,Cine Terror
+#EXTGRP:Peliculas
+http://stream.its-ing.com:8081/peliculas/cine-terror/playlist.m3u8
+#EXTINF:0,Cine Romance
+#EXTGRP:Peliculas
+http://192.168.200.108:8081/peliculas/cine-romance/playlist.m3u8
+#EXTINF:0,Cine Familia
+#EXTGRP:Peliculas
+http://stream.its-ing.com:8081/peliculas/cine-familia/playlist.m3u8
+#EXTINF:0,Cine Comedia
+#EXTGRP:Peliculas
+http://stream.its-ing.com:8081/peliculas/cine-comedia/playlist.m3u8
+#EXTINF:0,Cine Accion
+#EXTGRP:Peliculas
+http://stream.its-ing.com:8081/peliculas/cine-accion/playlist.m3u8
+#EXTINF:0,ITS Channel
+#EXTGRP:Peliculas
+http://stream.its-ing.com:8081/live/its-ing/playlist.m3u8
+#EXTINF:0,Cine Estelar
+#EXTGRP:Peliculas
+http://stream.its-ing.com:8081/peliculas/cine-estelar/playlist.m3u8
+#EXTINF:0,Cine Clasico
+#EXTGRP:Peliculas
+http://stream.its-ing.com:8081/peliculas/cine-clasico/playlist.m3u8
